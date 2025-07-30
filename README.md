@@ -15,9 +15,8 @@ Execute o seguinte comando para subir a aplicação localmente:
 ```
 
 A API estará acessível via:
-```
-[http://localhost:8080/swagger-ui/index.html]([http://localhost:8080/h2-console](http://localhost:8080/swagger-ui/index.html))
-```
+
+[http://localhost:8080/swagger-ui.index.html](http://localhost:8080/swagger-ui.index.html)
 
 ---
 
