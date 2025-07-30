@@ -16,7 +16,7 @@ Execute o seguinte comando para subir a aplicação localmente:
 
 A API estará acessível via:
 ```
-http://localhost:8080
+http://localhost:8080](http://localhost:8080
 ```
 
 ---
